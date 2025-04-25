@@ -10,6 +10,8 @@ I am proficient in English at a basic-intermediate level, which helps me to crea
 date with the latest technology trends.
 <br>
 <br>
+<h5>Não fala Inglês?<a href="https://github.com/MaduAraujo/MaduAraujo/blob/main/README-PT.md"> Clique aqui <br></a>
+  Veja esta página em Português</h5>
 <br>
 
 <p align="center">
