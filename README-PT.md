@@ -9,6 +9,8 @@ Sou proficiente em inglês em nível básico-intermediário, o que me ajuda a cr
 da tecnologia.
 <br>
 <br>
+<h5>Don't speak Portuguese?<a href="https://github.com/MaduAraujo/MaduAraujo/blob/main/README-EN.md"> Click here <br></a>
+  View this page is English</h5>
 <br>
 
 <p align="center">
